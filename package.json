@@ -1,6 +1,6 @@
 {
-  "name": "image-resizer",
-  "version": "1.6.0",
+  "name": "node-image-resizer",
+  "version": "1.6.3",
   "description": "On-the-fly image resizing and optimization using node and sharp (libvips). Heroku ready!",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "image-resizer": "./bin/image_resizer.js"
   },
   "engines": {
-    "node": "0.12.x"
+    "node": "7.7.x"
   },
   "dependencies": {
     "aws-sdk": "~2.0.0-rc9",

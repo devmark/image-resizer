@@ -1,0 +1,14 @@
+{
+  "env": {
+    "mocha": true,
+    "node": true
+  },
+  "plugins": [],
+  "extends": [
+    "eslint:recommended"
+  ],
+  "globals": {
+    "__dirname": true,
+    "global": true
+  }
+}
